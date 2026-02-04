@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Headline from "@/components/Headline";
+import {Headline} from "@/components/Headline";
 
 export const metadata: Metadata = {
   title: "About",
