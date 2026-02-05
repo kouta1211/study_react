@@ -1,7 +1,7 @@
-import { Action } from "@/components/Action";
 import { Headline } from "@/components/Headline";
 import { Metadata } from "next";
 import { Main } from "@/components/Main";
+import { Action } from "@/components/Action";
 
 export const metadata: Metadata = {
 	title: "Index",
